@@ -227,6 +227,7 @@ class App extends Component {
               loc={i}
               value={value}
               turn = {this.state.turn}
+              winner = {this.state.winner}
               gameLoop={this.gameLoop.bind(this)} 
               />
           );
