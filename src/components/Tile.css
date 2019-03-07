@@ -1,0 +1,17 @@
+.title {
+    width: 30%;
+    height:  112px;
+    font-size: 60px;
+    background: #2f2f28;
+    border: 3px solid aquamarine;
+    display: inline-block;
+    float: left;
+    text-align: center;
+    line-height: 0px;
+    font-family: cursive;
+
+}
+
+p{
+    color: aquamarine;
+}
